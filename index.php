@@ -43,7 +43,7 @@
                     </li>
 
                     <li class="nav-item mx-2">
-                        <a href="https://amkadamiyya.com.ng" class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button">Docs</a>
+                        <a href="https://amkadamiyya.com.ng" class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button">Pages</a>
                     </li>
                 </ul>
                 </div>
