@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Error Page</title>
     <meta name="description" content="Best School in Taraba Nigeria">
-    <meta name="keywords" content="School in Taraba, Amkadamiyya, Amkad">
+    <meta name="keywords" content="School in Taraba, Amkadamiyya, Amkadamiyya Jalingo">
     <meta name="author" content="Bsc. Software Engineering: Abdullahi Abubakar Kabri">
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34=">
