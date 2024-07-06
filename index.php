@@ -11,7 +11,7 @@
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34=">
     <!-- CDN and local stylesheets -->
-    <link rel="shortcut icon" href="assets/favicon/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCFCjShQzPk3LAFIdP6Qu3Pk917q9wnVmFw&s" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/gh/creativetimofficial/public-assets@master/soft-ui-design-system-builder/v1.0.7/assets/css/nucleo-icons.css" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/gh/creativetimofficial/public-assets@master/soft-ui-design-system-builder/v1.0.7/assets/css/nucleo-svg.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min.css?v=1.1.1">
@@ -39,7 +39,7 @@
                     </li>
 
                     <li class="nav-item mx-2">
-                        <a href="https://amkadamiyya.com.ng/pages/admission/admission-require.php" class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button">Admissions</a>
+                        <a href="https://amkadamiyya.com.ng" class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button">Admissions</a>
                     </li>
 
                     <li class="nav-item mx-2">
@@ -57,8 +57,8 @@
             <div class="row">
                 <div class="col-lg-6 my-auto">
                     <h1 class="display-1 text-bolder text-gradient text-danger">Error 404</h1>
-                    <h2>Erm. Page not found</h2>
-                    <p class="lead">Storage Alert. We suggest you to go to the homepage while we resolve this issue.</p>
+                    <h2 class="text-warning text-gradient">Storage Alert</h2>
+                    <p class="lead">We suggest you to go to the homepage while we resolve this issue.</p>
                     <a type="button" class="btn bg-gradient-dark mt-4" href="https://amkadamiyya.com.ng">Go to Homepage</a>
                 </div>
                 <div class="col-lg-6 my-auto position-relative d-none d-lg-block">
@@ -69,7 +69,6 @@
         </section>
     </main>
     <script src="https://kit.fontawesome.com/286d2a7519.js" crossorigin="anonymous"></script>
-    <script src="js/soft-ui-dashboard.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
