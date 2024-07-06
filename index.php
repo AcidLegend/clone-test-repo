@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min.css?v=1.1.1">
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="bg-info-soft" style="font-family: 'Open Sans'">
+<body class="bg-info-soft">
     <header>
        <!-- Navbar Light -->
         <nav class="navbar navbar-expand-lg navbar-light bg-white z-index-3 py-3">
