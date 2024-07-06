@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-white z-index-3 py-3">
             <div class="container">
                 <a class="navbar-brand" href="https://amkadamiyya.com.ng" rel="tooltip" data-placement="bottom">
-                Amkadamiyya
+                Amkadamiyya School
                 </a>
                 <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon mt-2">
