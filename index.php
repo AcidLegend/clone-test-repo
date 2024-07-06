@@ -58,7 +58,7 @@
                 <div class="col-lg-6 my-auto">
                     <h1 class="display-1 text-bolder text-gradient text-danger">Error 404</h1>
                     <h2>Erm. Page not found</h2>
-                    <p class="lead">Storage Alert. We suggest you to go to the homepage while we solve this issue.</p>
+                    <p class="lead">Storage Alert. We suggest you to go to the homepage while we resolve this issue.</p>
                     <a type="button" class="btn bg-gradient-dark mt-4" href="https://amkadamiyya.com.ng">Go to Homepage</a>
                 </div>
                 <div class="col-lg-6 my-auto position-relative d-none d-lg-block">
